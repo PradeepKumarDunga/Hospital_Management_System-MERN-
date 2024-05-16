@@ -1,10 +1,10 @@
-#Hospital Management System
+# Hospital Management System
 
 
-##Overview
+## Overview
 The Hospital Management System is designed to simplify the process of managing patient information and medical test registrations in a hospital setting. The system allows users to create accounts, register for various medical tests, and receive notifications once their test results are ready.
 
-##Features
+## Features
 -> User Account Management: New users can create an account and existing users can log in to access the system.
 -> Medical Test Selection: Users can browse and select from a variety of medical tests available on the website.
 -> Test Registration: After selecting a test, users can see additional related tests and the estimated time needed to generate the report.
